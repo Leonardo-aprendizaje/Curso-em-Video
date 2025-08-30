@@ -28,3 +28,18 @@ body {
 .btn-warning:hover {
     background-color: #e6b800;
 }
+
+#relogio {
+    display: flex;
+    font-size: 6rem;
+    font-weight: bold;
+    color: #ecf0f1;
+    background-color: #000000;
+    padding: 20px 40px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+}
+
+.separador {
+    margin: 0 10px;
+}
