@@ -1,0 +1,34 @@
+/* Reset simples */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+/* Área de testes grande */
+#area-teste {
+    min-height: 500px;
+    border: 2px dashed #aaa;
+    border-radius: 10px;
+    padding: 30px;
+    background: #f8f9fa;
+    margin-bottom: 2rem;
+    overflow-y: auto;
+}
+
+/* Console interno */
+#console-interno p {
+    margin: 0;
+    line-height: 1.4;
+}
+
+/* Botões */
+.btn-warning {
+    border: none;
+}
+.btn-warning:hover {
+    background-color: #e6b800;
+}
+
+select#flista {
+    width: 200px;
+}
